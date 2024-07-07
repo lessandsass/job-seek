@@ -47,10 +47,6 @@
                 </a>
             @endforeach
 
-            <div>
-                {{ $listings->links() }}
-            </div>
-
 
         </div>
     </section>
